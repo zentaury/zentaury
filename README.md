@@ -2,13 +2,14 @@
 
 **Senior Software Engineer**
 
-Full-stack developer with 5+ years of experience building and scaling web systems, currently leading the adoption of AI-assisted development workflows within my team.
+Full-stack developer with 5+ years of experience designing, building, and scaling web systems end to end — from architecture and backend APIs to frontend delivery, database design, and cloud deployment. Currently leading the adoption of AI-assisted development workflows within my team.
 
-### Currently
+### Highlights
 
-- Leading the adoption of AI-assisted development workflows (Claude Code) on my team
-- Mentoring a junior developer through code review and hands-on guidance
-- Building integrations between internal systems and enterprise platforms like Workday and ServiceNow
+- **Technical team leadership** — Selected the architecture and tech stack, planned timelines, and assigned work for a 4-developer team building a global time tracking system, using Scrum with Jira and Confluence.
+- **Enterprise integrations at scale** — Built a Java/Spring Boot integration that syncs 200,000+ employee accounts from Workday on a weekly schedule, feeding downstream roster and coaching systems.
+- **Production incident resolution** — Diagnosed and fixed a Kubernetes autoscaling issue on a legacy monolithic app by introducing Redis as a shared session/cache store, eliminating login and static-asset failures under scale.
+- **AI-assisted development leadership** — Leading the adoption of Claude Code across my team, designing specialized skills and sub-agents for real development workflows, and mentoring a junior developer through code review and hands-on guidance.
 
 ### Tech Stack
 
