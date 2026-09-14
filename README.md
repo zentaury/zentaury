@@ -2,7 +2,7 @@
 
 **Senior Software Engineer**
 
-I've spent the last 5+ years designing, building, and scaling web systems end to end — from picking the right architecture and writing the backend APIs, to shipping the frontend, modeling the database, and getting it all running reliably in the cloud. Along the way I've moved from writing the code myself to also owning the decisions around it: choosing the stack, planning the work, and helping the people around me grow. These days a big part of that is figuring out how AI-assisted development fits into how my team actually works, not just adopting it for its own sake.
+I've spent the last 5+ years designing, building, and scaling web systems end to end — from picking the right architecture and writing the backend APIs, to shipping the frontend, modeling the database, and getting it all running reliably in the cloud. Along the way I've moved from writing the code myself to also owning the decisions around it: choosing the stack, planning the work, and helping the people around me grow.
 
 ### Highlights
 
@@ -12,7 +12,7 @@ I've spent the last 5+ years designing, building, and scaling web systems end to
 
 **Digging into a problem until it's actually fixed.** One of the trickier production issues I've handled was on a legacy, monolithic Spring Boot application running on Google Kubernetes Engine — as Kubernetes autoscaled the pods, users started hitting login failures and broken static assets, because the app had no shared state across replicas. Rather than patch around it, I traced it back to that root cause and introduced Redis as a shared session and cache layer, which let the app scale horizontally the way it was supposed to, without breaking the experience for anyone using it.
 
-**Bringing AI into how the team actually builds software.** I was an early adopter of Cline, and I now lead my team's rollout of Claude Code — not just turning the tool on, but designing and orchestrating specialized skills and sub-agents around our real development workflow so the tooling earns its keep. Part of that leadership is direct mentorship: I work hands-on with a junior developer, reviewing their code and pull requests and helping them ramp up on how we work, not just what to write.
+**Growing the people around me.** I mentor a junior developer directly — reviewing their code and pull requests, and helping them ramp up on how we actually work, not just what to write. I've also been an early adopter of AI-assisted development tooling (Cline, and now Claude Code), building it into the team's workflow where it genuinely earns its keep.
 
 ### Tech Stack
 
