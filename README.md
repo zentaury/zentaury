@@ -36,6 +36,10 @@ I've spent the last 5+ years designing, building, and scaling web systems end to
 
 - **[MyLoLSkins](https://github.com/zentaury/MyLoLSkins)** — Tool to manage League of Legends skins (TypeScript)
 - **[java-master](https://github.com/zentaury/java-master)** — Claude Code skill for Java development with Spring Boot best practices
+- **[agent-flutter-expert](https://github.com/zentaury/agent-flutter-expert)** — Claude Code subagent specialized in Flutter/Dart development, with automatic tooling discovery and enforced style/architecture guidelines
+- **[BizCards Pets](https://pets.bizvirtualcards.com/)** — Digital, QR-based pet vaccination and health record platform, certifiable by veterinarians
+- **[BizCards Loyalty](https://loyalty.bizvirtualcards.com/)** — Digital loyalty and rewards card platform for businesses
+- **[Factura Electrónica](https://factura.grupozrsv.com/)** — Electronic invoicing (DTE) platform for tax compliance in El Salvador
 
 ### GitHub Stats
 
