@@ -2,14 +2,17 @@
 
 **Senior Software Engineer**
 
-Full-stack developer with 5+ years of experience designing, building, and scaling web systems end to end — from architecture and backend APIs to frontend delivery, database design, and cloud deployment. Currently leading the adoption of AI-assisted development workflows within my team.
+I've spent the last 5+ years designing, building, and scaling web systems end to end — from picking the right architecture and writing the backend APIs, to shipping the frontend, modeling the database, and getting it all running reliably in the cloud. Along the way I've moved from writing the code myself to also owning the decisions around it: choosing the stack, planning the work, and helping the people around me grow. These days a big part of that is figuring out how AI-assisted development fits into how my team actually works, not just adopting it for its own sake.
 
 ### Highlights
 
-- **Technical team leadership** — Selected the architecture and tech stack, planned timelines, and assigned work for a 4-developer team building a global time tracking system, using Scrum with Jira and Confluence.
-- **Enterprise integrations at scale** — Built a Java/Spring Boot integration that syncs 200,000+ employee accounts from Workday on a weekly schedule, feeding downstream roster and coaching systems.
-- **Production incident resolution** — Diagnosed and fixed a Kubernetes autoscaling issue on a legacy monolithic app by introducing Redis as a shared session/cache store, eliminating login and static-asset failures under scale.
-- **AI-assisted development leadership** — Leading the adoption of Claude Code across my team, designing specialized skills and sub-agents for real development workflows, and mentoring a junior developer through code review and hands-on guidance.
+**Leading a team, not just a codebase.** On the Global Time Tracking project, it was on me to evaluate and choose the software architecture and tech stack, then turn that into a realistic timeline with clear ownership across a team of four developers. We ran it under Scrum — user stories tracked in Jira, work broken into sprints, and decisions and context kept alive in Confluence so nothing lived only in someone's head.
+
+**Making enterprise data actually usable.** A lot of workforce systems are only as good as the data feeding them, so I built a Java 25 / Spring Boot 4 integration that pulls directly from Workday and keeps functional areas and employee catalogs in sync automatically, every week, for more than 200,000 accounts. That data flows downstream into Global Roster Management and Global Coaching Reports, where it becomes the backbone for tracking performance and coaching team members across the organization.
+
+**Digging into a problem until it's actually fixed.** One of the trickier production issues I've handled was on a legacy, monolithic Spring Boot application running on Google Kubernetes Engine — as Kubernetes autoscaled the pods, users started hitting login failures and broken static assets, because the app had no shared state across replicas. Rather than patch around it, I traced it back to that root cause and introduced Redis as a shared session and cache layer, which let the app scale horizontally the way it was supposed to, without breaking the experience for anyone using it.
+
+**Bringing AI into how the team actually builds software.** I was an early adopter of Cline, and I now lead my team's rollout of Claude Code — not just turning the tool on, but designing and orchestrating specialized skills and sub-agents around our real development workflow so the tooling earns its keep. Part of that leadership is direct mentorship: I work hands-on with a junior developer, reviewing their code and pull requests and helping them ramp up on how we work, not just what to write.
 
 ### Tech Stack
 
